@@ -3,3 +3,5 @@
 官方来源：https://hyperos.mi.com/font/zh/download/
 字体文件取自官方字体包，未经字形修改。
 许可协议：https://hyperos.mi.com/font-download/MiSans字体知识产权许可协议.pdf
+
+本站网页字体仅保留页面使用字形，原始字形轮廓与字宽保持不变。
